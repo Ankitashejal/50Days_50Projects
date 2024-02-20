@@ -16,8 +16,8 @@ body {
   overflow: hidden;
 }
 
-.magic {
-  background-color: #f9ca24;
+.click {
+  background-color: #e8c957;
   color: #fff;
   font-family: 'Poppins', sans-serif;
   border: 0;
@@ -32,11 +32,11 @@ body {
   z-index: 100;
 }
 
-.magic:focus {
+.click:focus {
   outline: none;
 }
 
-.magic:active {
+.click:active {
   box-shadow: none;
   transform: translateY(2px);
 }
@@ -61,7 +61,7 @@ body {
 }
 
 .box {
-  background-image: url('https://www.reddit.com/r/HighQualityGifs/comments/c292pp/mrw_someone_is_getting_overly_heated_in_the/');
+  background-image: url('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJhZzd4ZjU0emRsZjZnN2F0ZjFyYmRrYnVra2FpeTZ1bmY3MXFjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cIMm3xWwxCF3xhuGpZ/giphy.gif');
   background-repeat: no-repeat;
   background-size: 500px 500px;
   position: relative;
