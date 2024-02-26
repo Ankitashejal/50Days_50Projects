@@ -5,6 +5,7 @@ Inspired by Brad Traversy and Florin Pop.
 | No    |      Project-Title         | Live Demo-Link                                                                         |
 | ----- | -------------------------- |----------------------------------------------------------------------------------------|
 |  1    |   3D-boxes-wallpaper       | http://127.0.0.1:3000/3d-boxes-background/index.html                                   |
+|  2    |   Animation-countdown      |   http://127.0.0.1:3000/Animated-countdown/index.html                                  |
 
 
 
